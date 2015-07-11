@@ -56,5 +56,6 @@ docs/_build/
 # PyBuilder
 target/
 
-
+# Extras
 venv
+data.sqlite
